@@ -1,0 +1,12 @@
+2018-12-21 17:28:38,160 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-21 17:52:32,252 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud:0.0.1-SNAPSHOT @ C:\MyGithub\Online_Repo\Spring-Boot\workspace\taco-cloud\pom.xml.
+2018-12-21 17:52:34,813 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud/src/main/java
+2018-12-21 17:52:34,814 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud/src/main/resources
+2018-12-21 17:52:34,843 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud/src/main/resources
+2018-12-21 17:52:34,854 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud/src/test/java
+2018-12-21 17:52:36,167 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2018-12-21 17:52:39,189 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-21 17:52:39,194 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-12-21 17:52:39,208 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-21 17:52:39,211 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-21 17:52:39,211 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyGithub\Online_Repo\Spring-Boot\workspace\taco-cloud\src\test\resources

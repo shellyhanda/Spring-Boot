@@ -1,0 +1,17 @@
+2018-12-21 21:39:46,735 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-21 21:41:03,231 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shelly:readingList:0.0.1-SNAPSHOT @ C:\MyGithub\Online_Repo\Spring-Boot\spring-boot-workspace\readingList\pom.xml.
+2018-12-21 21:41:05,899 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /readingList/src/main/java
+2018-12-21 21:41:05,899 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /readingList/src/main/resources
+2018-12-21 21:41:05,913 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /readingList/src/main/resources
+2018-12-21 21:41:05,923 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /readingList/src/test/java
+2018-12-21 21:41:07,826 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2018-12-21 21:41:12,795 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-21 21:41:12,803 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-12-21 21:41:12,827 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-21 21:41:12,831 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-21 21:41:12,831 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyGithub\Online_Repo\Spring-Boot\spring-boot-workspace\readingList\src\test\resources
+2018-12-21 21:54:30,556 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-21 21:54:30,570 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-12-21 21:54:30,581 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-21 21:54:30,597 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-21 21:54:30,612 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\MyGithub\Online_Repo\Spring-Boot\spring-boot-workspace\readingList\src\test\resources
