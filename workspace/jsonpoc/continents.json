@@ -1,0 +1,77 @@
+[
+    {
+        "continent": "Africa",
+        "countries": [
+            {
+                "name": "Nigeria",
+                "flag": "🇳🇬"
+            },
+            {
+                "name": "Ethiopia",
+                "flag": "🇪🇹"
+            },
+            {
+                "name": "Egypt",
+                "flag": "🇪🇬"
+            },
+            {
+                "name": "DR Congo",
+                "flag": "🇨🇩"
+            },
+            {
+                "name": "South Africa",
+                "flag": "🇿🇦"
+            }
+        ]
+    },
+    {
+        "continent": "America",
+        "countries": [
+            {
+                "name": "USA",
+                "flag": "🇺🇸"
+            },
+            {
+                "name": "Brazil",
+                "flag": "🇧🇷"
+            },
+            {
+                "name": "Mexico",
+                "flag": "🇲🇽"
+            },
+            {
+                "name": "Colombia",
+                "flag": "🇨🇴"
+            },
+            {
+                "name": "Argentina",
+                "flag": "🇦🇷"
+            }
+        ]
+    },
+    {
+        "continent": "Asia",
+        "countries": [
+            {
+                "name": "China",
+                "flag": "🇨🇳"
+            },
+            {
+                "name": "India",
+                "flag": "🇮🇳"
+            },
+            {
+                "name": "Indonesia",
+                "flag": "🇮🇩"
+            },
+            {
+                "name": "Pakistan",
+                "flag": "🇵🇰"
+            },
+            {
+                "name": "Bangladesh",
+                "flag": "🇧🇩"
+            }
+        ]
+    }
+    ]
